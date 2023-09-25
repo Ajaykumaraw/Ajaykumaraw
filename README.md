@@ -6,7 +6,7 @@
                                   
 
 - 🌱 Mern Stack Developer
-- 👯 JavaScritp certification from <b>HackerRank</b>
+- 👯 JavaScript certification from <b>HackerRank</b>
 - 👯 I’m looking to collaborate on Project based on React, React Native , Nodejs Backend based Apps.
 - 🌱 visit my portfolio @ https://ajaykumar-aw.web.app/
 ### :hammer_and_wrench: Languages and Tools :
